@@ -1,0 +1,4 @@
+torch==2.2.2
+matplotlib==3.11.2
+numpy==1.26.4  # torch 2.2.2 is built against NumPy 1.x
+ipykernel==7.4.0
